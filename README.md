@@ -92,7 +92,7 @@ cd -
 6. Apply the configuration
 
    ```sh
-   skaffold manifest.yaml
+   skaffold apply manifest.yaml
    ```
 
    I prefer `skaffold` to `kubectl` for applying deployments as it waits
